@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elm",
+  "name": "White Elm My Beloved",
+  "description": "Returns the long lost & ever forgotten White Elm trees to their true glory in TerraFirmaCraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/elm",
+  "updateUrl": "https://github.com/Lylythii/WhiteElmMyBeloved",
+  "authorList": ["Lylythii"],
+  "credits": "The TerraFirmaCraft Development Team",
+  "logoFile": "elm_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
